@@ -5,7 +5,7 @@
 
 <!-- Image 1 -->
 <kbd>
-  <img src="BreadcrumbsE-Commerce-Project-Web-API/screenshot/1.png" alt="Image 1" width="200"/>
+  <img src="screenshot/1.png" alt="Image 1" width="200"/>
 </kbd>
 
 <!-- Image 2 -->
