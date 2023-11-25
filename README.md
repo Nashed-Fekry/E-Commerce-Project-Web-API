@@ -1,6 +1,7 @@
 # Web-Api-dev
 <!-- Image Slider -->
 ## Image Slider
+![Example Image](screenshot/1.png)
 
 <!-- Image 1 -->
 <kbd>
